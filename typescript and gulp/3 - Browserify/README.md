@@ -10,5 +10,4 @@ Test the resulting app
 
 ```
 gulp
-node dist/main.js
 ```
